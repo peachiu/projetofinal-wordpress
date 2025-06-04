@@ -32,7 +32,7 @@ O objetivo deste projeto é criar um site em WordPress para compartilhar minha p
 
 ## Créditos
 
-Projeto desenvolvido por [Seu Nome ou Usuário GitHub] para o módulo 17 de programação.
+Projeto desenvolvido por [peachiu](Dinis Silva) para o módulo 17 de programação.
 
 ## Licença
 
